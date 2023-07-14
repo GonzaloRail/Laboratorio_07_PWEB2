@@ -33,13 +33,13 @@
         <td>ASIGNATURA:</td><td colspan="5">Laboratorio de Programación Web 2 - Grupo "D"</td>
     </tr>
     <tr>
-        <td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Javascript</td>
+        <td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Laboratorio 7</td>
     </tr>
     <tr>
-        <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+        <td>NÚMERO DE PRÁCTICA:</td><td>07</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
     </tr>
     <tr>
-        <td colspan="2">FECHA DE PRESENTACIÓN:</td><td>07-May-2023</td><td colspan="2">HORA DE PRESENTACIÓN:</td><td>23:00</td>
+        <td colspan="2">FECHA DE PRESENTACIÓN:</td><td>14-Jul-2023</td><td colspan="2">HORA DE PRESENTACIÓN:</td><td>23:59</td>
     </tr>
     <tr>
         <td colspan="3">INTEGRANTES:
@@ -69,13 +69,17 @@
             <td>
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
                     Repositorio general<br>
-                    <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2">https://github.com/GonzaloRail/Laboratorio_02_PWEB2</a>
+                    <a href="https://github.com/GonzaloRail/Laboratorio_07_PWEB2">https://github.com/GonzaloRail/Laboratorio_07_PWEB2</a>
             <ul>
                 <li>
-                    Ejercicio 01:<br>
-                    Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.<br>
+                    Django pdf y emails:
+                    <br>En este apartado se realizara el renderizado del pdf y descarga automatica<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1</a>
                     <img src="./img/ejer1.png">
+                    <br>En este apartado se realizara el envio de emails<br>
+                    Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1</a>
+                    <img src="./img/ejer1.png">
+
                 </li>
                 <li>
                     Ejercicio 02:<br>
