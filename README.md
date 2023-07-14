@@ -74,10 +74,10 @@
                 <li>
                     Django pdf y emails:
                     <br>En este apartado se realizara el renderizado del pdf y descarga automatica<br>
-                    Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1</a>
+                    Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/TemplateToAPDF/pdf">https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/TemplateToAPDF/pdf</a>
                     <img src="./img/ejer1.png">
                     <br>En este apartado se realizara el envio de emails<br>
-                    Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1</a>
+                    Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/Email/emailexample">https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/Email/emailexample</a>
                     <img src="./img/ejer1.png">
                 </li>
                 <li>
