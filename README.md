@@ -79,7 +79,6 @@
                     <br>En este apartado se realizara el envio de emails<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1">https://github.com/GonzaloRail/Laboratorio_02_PWEB2/tree/main/Ejercicio1</a>
                     <img src="./img/ejer1.png">
-
                 </li>
                 <li>
                     Ejercicio 02:<br>
