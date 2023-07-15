@@ -70,7 +70,6 @@
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
                     Repositorio general<br>
                     <a href="https://github.com/GonzaloRail/Laboratorio_07_PWEB2">https://github.com/GonzaloRail/Laboratorio_07_PWEB2</a>
-
                     <br>Link para el flip<br>
                     <a href="https://flip.com/s/pvBzJYuu_WEx">https://flip.com/s/pvBzJYuu_WEx</a>
             <ul>
