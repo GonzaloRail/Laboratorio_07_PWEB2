@@ -88,6 +88,10 @@
                     Ejercicio 02:<br>
                     Aqui simplemente se implentara la base de datos: <a href="https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/relaciones">https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/relaciones</a>
                     <img src="./img/muchosOtros.png"><br>
+                    <li>
+                    Commits: 
+                    <img src="./img/comits.png">
+                </li>
                 </li>
             </ul>
             </td>
