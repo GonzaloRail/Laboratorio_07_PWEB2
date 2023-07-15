@@ -79,8 +79,8 @@
                     <img src="./img/pdf2.png">
                     <br>En este apartado se realizara el envio de emails<br>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/Email/emailexample">https://github.com/GonzaloRail/Laboratorio_07_PWEB2/tree/main/Email/emailexample</a>
-                    <img src="./img/pruebaEmail.png">
                     <img src="./img/correPagina.png">
+                    <img src="./img/pruebaEmail.png">
                 </li>
                 <li>
                     Ejercicio 02:<br>
